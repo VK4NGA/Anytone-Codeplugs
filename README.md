@@ -10,7 +10,7 @@ Also has UHF CB channels.
 Zone frequencies in radio: 
 VK DMR Simplex RX/TX 439.175mhz. 
 VK DMR Duplex frequencies in radio: RX 434.175 TX 439.175mhz. 
-So make sure the frequencies are reversed in your hotspot. 
+so make sure the frequencies are reversed in your hotspot. 
 Brandmeister: 439.125mhz.
 ZL TRBO: 439.300mhz.
 TGIF: 439.750mhz.
