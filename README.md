@@ -14,4 +14,4 @@ ZL TRBO: 439.300mhz.
 TGIF: 439.750mhz.
 Your DMR ID needs to be entered otherwise it won't work! 
 You can manually enter your DMR ID via the keypad in the settings menu. 
-Menu/Settings/Chan set/Radio ID/Select?Select VK/Press option/Select Edit ID then manually key your number in then press confirm/Select save. 
+Menu/Settings/Chan set/Radio ID/Select/Select VK/Press option/Select Edit ID then manually key your number in then press confirm/Select save. 
