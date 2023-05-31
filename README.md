@@ -1,5 +1,5 @@
 # Anytone-Codeplugs
-CODEPLUG: Version 1 codeplug designed for hotspot use. 
+CODEPLUG: Anytone D878 Version 1 codeplug designed for hotspot use. 
 There are some analog repeaters in the Analog FM zone. 
 There is one VK4 VK-DMR repeater in the 4RNX zone, use this as a template to add other DMR repeaters.
 Written using CPS Ver 1.27 so should be fine for older model radios.
@@ -13,5 +13,5 @@ Brandmeister: 439.125mhz.
 ZL TRBO: 439.300mhz.
 TGIF: 439.750mhz.
 Your DMR ID needs to be entered otherwise it won't work! 
-You can manually enter your DMR ID via the keypad in the utilities menu. 
-Utilities/Radio info/My number/Edit then manually key your number in then press confirm. 
+You can manually enter your DMR ID via the keypad in the settings menu. 
+Menu/Settings/Chan set/Radio ID/Select?Select VK/Press option/Select Edit ID then manually key your number in then press confirm/Select save. 
